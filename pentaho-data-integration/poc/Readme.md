@@ -1,0 +1,1 @@
+POC Code for Pentaho intrgration with BHAV Copy NSE, and a master list of Shares (ISINS)
